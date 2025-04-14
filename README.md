@@ -60,5 +60,5 @@ Este proyecto tiene como fin **demostrar conocimientos en testing manual** con u
 
 **Jose E. Díaz López**  
 Analista de pruebas funcionales  
-📍 Perú | 📧 [Tu correo o LinkedIn]
+📍 Perú | 📧 https://www.linkedin.com/in/jose-diaz-lopez-432952327/
 
