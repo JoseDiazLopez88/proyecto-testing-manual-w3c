@@ -26,9 +26,9 @@ Realizar pruebas manuales que permitan validar la funcionalidad básica del siti
 
 ## 🛠️ Herramientas utilizadas
 
-- Navegador: Google Chrome (versión estable)
-- Documentación: Microsoft Excel / LibreOffice Calc
-- Capturas de evidencia: Herramienta Snipping Tool / Lightshot
+- Navegador: Google Chrome 
+- Documentación: Microsoft Excel 
+- Capturas de evidencia: Herramienta de recortes
 - Sistema operativo: Windows 11
 
 ---
